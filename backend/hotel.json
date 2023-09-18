@@ -1,0 +1,154 @@
+[
+    {
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-876463172459170480/original/60963c66-9a75-4424-bcd7-d5a02080a45d.jpeg?im_w=720",
+        "address": "Jaipur, India",
+        "price": "₹22,000 night",
+        "distance": "23 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-948238209740182923/original/497a2e8b-2bad-45c8-9b78-bddaa345ef10.jpeg?im_w=720",
+        "address": "Neota, India",
+        "price": "₹9,900 night",
+        "distance": "198 kilometres away",
+        "date": "23–28 Sep"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/139f6ef1-0793-4c6f-9aa5-34d3fdb7020b.jpg?im_w=720",
+        "address": "Reru, India",
+        "price": "₹25,106 night",
+        "distance": "499 kilometres away",
+        "date": "22–27 Oct"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-907692862221015063/original/6e6ec6c0-9d8f-41d1-b6ab-96b4e3028e7c.jpeg?im_w=720",
+        "address": "Nashik, India",
+        "price": "₹32,500 night",
+        "distance": "800 kilometres away",
+        "date": "16–21 Sep"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-872824004889218293/original/69a0b92a-3297-4ecd-903c-4e7d6674a806.jpeg?im_w=720",
+        "address": "Girnare, India",
+        "price": "₹23,517 night",
+        "distance": "794 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-949084195460184211/original/6d33aae1-3e03-46c9-87e2-377c6c88e1a1.jpeg?im_w=720",
+        "address": "Hawala Kalan, India",
+        "price": "₹38,800 night",
+        "distance": "341 kilometres away",
+        "date": "19–24 Sep"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/6e455b26-2063-4c8b-896f-9dbd413cfc19.jpg?im_w=720",
+        "address": "Udaipur, India",
+        "price": "₹39,941 night",
+        "distance": "344 kilometres away",
+        "date": "16–21 Sep"
+    },
+    {
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-656308011112117377/original/045283f7-6ce6-4c91-a8fa-a815f267617a.jpeg?im_w=720",
+        "address": "Jaipur, India",
+        "price": "₹14,250 night",
+        "distance": "18 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-735905394790576672/original/d436d1a8-9cb1-4bdf-9c73-ab28a8aab5c8.jpeg?im_w=720",
+        "address": "Udaipur, India",
+        "price": "₹14,337 night",
+        "distance": "335 kilometres away",
+        "date": "16–21 Sep"
+    },
+    {
+        "id": 10,
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-653962523645036913/original/f6eff0b6-e821-42a7-817d-bc6b603017f4.jpeg?im_w=720",
+        "address": "Badowala, India",
+        "price": "₹18,700 night",
+        "distance": "425 kilometres away",
+        "date": "16–21 Sep"
+    },
+    {
+        "id": 11,
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-765673312810778311/original/65c6c6c9-4625-4352-9104-115b8052807a.jpeg?im_w=720",
+        "address": "Ghamroj, India",
+        "price": "₹23,705 night",
+        "distance": "198 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+        "id": 12,
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-22499756/original/63f9dba8-55ac-4154-adbc-ae4770cfc0e8.png?im_w=720",
+        "address": "Mandawa, India",
+        "price": "₹5,800 night",
+        "distance": "142 kilometres away",
+        "date": "16–21 Sep"
+    },
+    {
+        "id": 13,
+        "image": "https://a0.muscache.com/im/pictures/3914639c-f650-4792-870c-8b423b426821.jpg?im_w=720",
+        "address": "New Delhi, India",
+        "price": "₹9,542 night",
+        "distance": "232 kilometres away",
+        "date": "27 Sep – 2 Oct"
+    },
+    {
+        "id": 14,
+        "image": "  ",
+        "address": "Gurugram, India",
+        "price": "₹20,541 night",
+        "distance": "212 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+        "id": 15,
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-861287246783947671/original/100169ca-8df3-4dd4-8c35-53c91ce5f9e3.png?im_w=720",
+        "address": "New Delhi, India",
+        "price": "₹26,019 night",
+        "distance": "223 kilometres away",
+        "date": "24–29 Sep"
+    },
+    {
+        "id": 16,
+        "image": "https://a0.muscache.com/im/pictures/df029d34-d3af-4a31-bfe2-c22e4bfbf4f4.jpg?im_w=720",
+        "address": "Gurugram, India",
+        "price": "₹28,529 night",
+        "distance": "210 kilometres away",
+        "date": "16–21 Sep"
+    },
+    {
+        "id": 17,
+        "image": "https://a0.muscache.com/im/pictures/de64663a-ab07-4f1f-9041-8c5c7138b8e0.jpg?im_w=720",
+        "address": "Greater Noida, India",
+        "price": "₹18,036 night",
+        "distance": "241 kilometres away",
+        "date": "28 Sep – 3 Oct"
+    },
+    {
+        "id": 18,
+        "image": "https://a0.muscache.com/im/pictures/1bd8ca86-038f-4a19-ba20-42cb1f6d6ada.jpg?im_w=720",
+        "address": "New Delhi,, India",
+        "price": "₹26,932 night",
+        "distance": "214 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+        "id": 19,
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-688883718415705099/original/12b87033-ef49-46bc-a83c-272ec982dc83.jpeg?im_w=720",
+        "address": "Nashik, India",
+        "price": "₹13,158 night",
+        "distance": "790 kilometres away",
+        "date": "17–22 Sep"
+    },
+    {
+        "id": 20,
+        "image": "https://a0.muscache.com/im/pictures/miso/Hosting-897785635618784282/original/372e4d66-4f0e-49e5-9ce3-b38bf43d4dda.png?im_w=720",
+        "address": "Raiseena, India",
+        "price": "₹15,546 night",
+        "distance": "195 kilometres away",
+        "date": "17–22 Sep"
+    }
+]

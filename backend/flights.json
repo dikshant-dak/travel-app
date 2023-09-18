@@ -1,0 +1,162 @@
+[
+    {
+        "name": "IndiGo",
+        "departureTime": "10:15",
+        "destinationTime": "16:55",
+        "price": "₹ 4,598per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "12:10",
+        "destinationTime": "18:10",
+        "price": "₹ 4,899per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "17:05",
+        "destinationTime": "19:10",
+        "price": "₹ 5,174per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Vistara",
+        "departureTime": "14:20",
+        "destinationTime": "19:15",
+        "price": "₹ 5,725per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Vistara",
+        "departureTime": "11:55",
+        "destinationTime": "08:50+ 1 D",
+        "price": "₹ 5,725per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "08:20",
+        "destinationTime": "14:40",
+        "price": "₹ 5,972per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Vistara",
+        "departureTime": "11:55",
+        "destinationTime": "17:45",
+        "price": "₹ 6,065per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Air India",
+        "departureTime": "16:30",
+        "destinationTime": "05:50+ 1 D",
+        "price": "₹ 7,071per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "18:45",
+        "destinationTime": "00:30+ 1 D",
+        "price": "₹ 7,356per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Vistara",
+        "departureTime": "15:20",
+        "destinationTime": "09:05+ 1 D",
+        "price": "₹ 7,552per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "18:15",
+        "destinationTime": "02:40+ 1 D",
+        "price": "₹ 8,495per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Air India",
+        "departureTime": "16:30",
+        "destinationTime": "20:25",
+        "price": "₹ 8,717per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "18:15",
+        "destinationTime": "00:50+ 1 D",
+        "price": "₹ 9,141per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "08:10",
+        "destinationTime": "14:15",
+        "price": "₹ 9,445per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "08:10",
+        "destinationTime": "13:00",
+        "price": "₹ 9,845per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "18:50",
+        "destinationTime": "00:35+ 1 D",
+        "price": "₹ 11,443per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Vistara",
+        "departureTime": "15:20",
+        "destinationTime": "20:30",
+        "price": "₹ 12,489per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "Air India",
+        "departureTime": "13:00",
+        "destinationTime": "00:05+ 1 D",
+        "price": "₹ 13,444per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "09:55",
+        "destinationTime": "21:50",
+        "price": "₹ 18,057per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    },
+    {
+        "name": "IndiGo",
+        "departureTime": "09:55",
+        "destinationTime": "16:10",
+        "price": "₹ 21,955per adult",
+        "departureCity": "Udaipur",
+        "destinationCity": "Bengaluru"
+    }
+]
