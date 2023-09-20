@@ -188,6 +188,21 @@ app.get("/hotels", async (req, res) => {
     }
 })
 
+// GET ONLY ONE USER
+app.get("/hotels/:id", async (req, res) => {
+    try {
+        const hotel = await prisma.hotel.findFirstOrThrow({
+            where: {
+                id: parseInt(req.params.id)
+            },
+        });
+        res.json(hotel);
+    } catch (error) {
+        console.log(error);
+        res.status(404).json("Not Found")
+    }
+});
+
 app.get("/flights", async (req, res) => {
     try {
         const flightsData = await prisma.flights.findMany();

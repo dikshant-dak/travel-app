@@ -96,14 +96,14 @@ const flights = () => {
             <div className="w-full mt-10">
                 {flightData.map((flights) => {
                     return (
-                        <div key={flights.id} flightdata={flights} className="w-full">
-                            <div className="mx-4 sm:mx-6 md:mx-8 lg:mx-12 xl:mx-20 p-6 sm:p-8 md:p-10 lg:p-12 xl:p-16 flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 space-x-0 sm:space-x-4 items-center shadow-xl my-3 mt-10 bg-gradient-to-r from-[#434343] to-[#1f1b1b] text-white rounded-2xl">
+                        <div key={flights.id} flightdata={flights} className="w-full flex justify-evenly items-center">
+                            <div className="mx-4 sm:mx-6 md:mx-8 lg:mx-36 xl:mx-20 p-6 sm:p-8 md:p-10 lg:p-12 xl:p-16 flex flex-col sm:flex-row justify-center space-y-4 sm:space-y-0 space-x-0 sm:space-x-4 lg:space-x-16 items-center shadow-xl my-3 mt-10 bg-gradient-to-r from-[#434343] to-[#1f1b1b] text-white rounded-2xl">
                                 <h3 className="text-2xl sm:text-3xl">{flights.name}</h3>
-                                <div className="flex flex-col items-center justify-center sm:flex-row">
+                                <div className="flex flex-col items-center justify-center">
                                     <h2 className="text-2xl sm:text-3xl">{flights.departureTime}</h2>
                                     <p className="text-xl sm:text-2xl ml-0 sm:ml-2 mt-2 sm:mt-0">{flights.departureCity}</p>
                                 </div>
-                                <div className="flex flex-col items-center justify-center sm:flex-row">
+                                <div className="flex flex-col items-center justify-center ">
                                     <h2 className="text-2xl sm:text-3xl">{flights.destinationTime}</h2>
                                     <p className="text-xl sm:text-2xl ml-0 sm:ml-2 mt-2 sm:mt-0">{flights.destinationCity}</p>
                                 </div>

@@ -19,6 +19,7 @@ import Footer from "@/components/Footer";
 
 const index = ({ hotels }) => {
     const [hotelData, setHotelData] = useState([]);
+    const [newHotels, setNewHotels] = useState(hotels)
 
     useEffect(() => {
         const fetchHotels = async () => {
@@ -36,7 +37,7 @@ const index = ({ hotels }) => {
 
     return (
         <div>
-            <Header />
+            <Header hotels={hotels} setNewHotels={setNewHotels} />
             <Booking />
             <h1 className="text-base md:text-4xl font-semibold text-center mt-16">Hotels and Homestays</h1>
             <div className="flex flex-wrap w-full h-full md:p-5 justify-center items-center md:py-8">

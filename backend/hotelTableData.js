@@ -33,8 +33,6 @@ const insertData = async () => {
         console.log('Hotels data inserted successfully.');
     } catch (error) {
         console.error('Error inserting hotels data:', error);
-    } finally {
-        await prisma.$disconnect(); // Disconnect from the database
     }
 }
 insertData();

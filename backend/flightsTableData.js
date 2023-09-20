@@ -35,8 +35,6 @@ const insertData = async () => {
         console.log('Flights data inserted successfully.');
     } catch (error) {
         console.error('Error inserting flights data:', error);
-    } finally {
-        await prisma.$disconnect();
     }
 }
 insertData();
